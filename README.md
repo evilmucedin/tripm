@@ -1,0 +1,2 @@
+# tripm
+Triarchic Psychopathy Measure
